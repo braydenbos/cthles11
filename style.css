@@ -1,0 +1,24 @@
+body{
+    background-color: lightblue;
+}
+h1{
+    color:darkblue ;
+}
+.loc{
+    background-color: black;
+    color: white;
+    border: 5px solid white;
+    padding: 10px;
+}
+.git{
+    background-color:white;
+    color: hotpink;
+    border: 5px solid hotpink;
+    padding: 10px;
+}
+.github{
+    background-color: black;
+    color: blue;
+    border: 5px solid blue;
+    padding: 10px;
+}
